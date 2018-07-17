@@ -1,0 +1,2618 @@
+{
+    "customers": [
+        {
+            "id": "1",
+            "firstName": "MARIA CONSUELO",
+            "lastName": "MENDOZA",
+            "middleName": "CASTILLO"
+        },
+        {
+            "id": "2",
+            "firstName": "PEDRO ",
+            "lastName": "PEREZ",
+            "middleName": "GOMEZ"
+        }
+    ],
+    "movements": [
+        {
+            "operationDate": "2018-03-11T00:23:56Z",
+            "localAmount": {
+                "amount": 771189,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "1e0a5e40-7b45-41dd-a53f-da0ee678c020",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-04-28T22:49:30Z",
+            "localAmount": {
+                "amount": 2563589,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "32ebf14b-e64c-4ca0-9b9b-816be2d7570f",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-12-01T01:06:09Z",
+            "localAmount": {
+                "amount": 404377,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "511920d3-55b6-4ca3-9151-c87f27c3360b",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-09-19T03:16:03Z",
+            "localAmount": {
+                "amount": 1291019,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "5f9cbf3b-f369-4ab1-9223-1845d6285893",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-01-23T07:22:35Z",
+            "localAmount": {
+                "amount": 1678987,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "b05094b3-c5e4-4dc6-9862-55264dc0f4ca",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-06-04T08:15:53Z",
+            "localAmount": {
+                "amount": 1402515,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "e2dc729e-50eb-4f83-be7c-3228337c0049",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-01-12T16:24:07Z",
+            "localAmount": {
+                "amount": 1868384,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "798b6981-df64-469a-bbce-d60388bd7aef",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-09-23T00:08:24Z",
+            "localAmount": {
+                "amount": 218240,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "7dba5541-e659-408d-815b-cc4f0f18da26",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-04-24T15:31:18Z",
+            "localAmount": {
+                "amount": 2476411,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "662262d0-da6c-43f3-be01-7801d5b88111",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-07-14T18:41:18Z",
+            "localAmount": {
+                "amount": 30866,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "cb07a6fd-5edd-40c5-96da-eefba973e346",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-09-20T05:44:35Z",
+            "localAmount": {
+                "amount": 2817020,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "42079618-ce14-4603-ab48-fdded57ba61b",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-04-04T22:31:35Z",
+            "localAmount": {
+                "amount": 220866,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "ca2e7a13-fd88-4e08-817d-670882aaf2ca",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-08-01T12:28:30Z",
+            "localAmount": {
+                "amount": 2602643,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "412c0110-2fe2-4787-a8bd-9d11809dfafd",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-07-18T18:50:41Z",
+            "localAmount": {
+                "amount": 923410,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "94c903fb-c402-4c75-9f47-08166261240f",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-08-28T17:41:45Z",
+            "localAmount": {
+                "amount": 1290600,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "be8f6bb1-3f66-46d3-a374-0395c036174e",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-11-30T03:46:11Z",
+            "localAmount": {
+                "amount": 1730084,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "b32a3d38-6ba2-47f4-b2c3-b5e6c1d01557",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-11-17T00:37:52Z",
+            "localAmount": {
+                "amount": 464080,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "39aaf1c5-c62d-4e8f-ab65-511c5a3d7c3a",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-09-09T19:36:49Z",
+            "localAmount": {
+                "amount": 167188,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "585d4e34-06c3-497d-92f5-4cbc7ca2db9b",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-08T22:14:39Z",
+            "localAmount": {
+                "amount": 2598687,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "8159aac4-9293-41d0-8ba7-88cab68e6703",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-05-19T01:09:47Z",
+            "localAmount": {
+                "amount": 2852247,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "bb007fc9-c9fc-4775-af1f-91b49bb25f07",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-11-19T07:37:59Z",
+            "localAmount": {
+                "amount": 2454207,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "81342eb5-2f75-4302-a78e-178871b4d176",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-06-02T09:56:50Z",
+            "localAmount": {
+                "amount": 2265989,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "38c32fe7-1695-4d2c-81d8-c1de993f0633",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-11-27T23:40:22Z",
+            "localAmount": {
+                "amount": 2957373,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "42ac29c4-0eae-4d6d-8e45-cb95de177693",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-07-29T18:22:07Z",
+            "localAmount": {
+                "amount": 1026330,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "95b4a556-93ae-4fb6-a990-72b196329825",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-09-22T01:31:58Z",
+            "localAmount": {
+                "amount": -4161,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "8a867a76-6d63-4b3c-8faa-acb3788781ce",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-10-21T21:25:21Z",
+            "localAmount": {
+                "amount": 2793354,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "9fb2cd55-cacf-479a-8e21-edb490cf7e08",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-01-24T13:38:59Z",
+            "localAmount": {
+                "amount": 2051829,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "e4144802-2aad-434b-a586-6d6057d4a199",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-08-09T00:18:18Z",
+            "localAmount": {
+                "amount": 321338,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "81368b31-de45-44ad-ad94-ca46ad5ea291",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-06-24T07:54:17Z",
+            "localAmount": {
+                "amount": 1224784,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "805cb989-caf4-4f1b-9a26-76d7d2ef163e",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-08-10T17:59:10Z",
+            "localAmount": {
+                "amount": 1957938,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "b876d4f7-e1aa-4f60-9b47-d9c174cbd96d",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-09-04T22:17:54Z",
+            "localAmount": {
+                "amount": 716676,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "23e131c7-1228-4570-a05e-dbc8c7b45e18",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-10-11T09:36:49Z",
+            "localAmount": {
+                "amount": 1113032,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "5621c0a9-97fe-40eb-974f-c382c8450c0c",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-07-01T03:04:48Z",
+            "localAmount": {
+                "amount": 1962229,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "a7c99f75-7eb1-4a86-8302-e14a5b94c23a",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-08-19T00:41:24Z",
+            "localAmount": {
+                "amount": 1388558,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "96f478a1-1e40-4087-a257-d0107bc0bfbd",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-08-05T13:33:44Z",
+            "localAmount": {
+                "amount": 1429097,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "77c80e1f-ce98-4348-a9ed-ac52e4bb0909",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-02-11T18:52:21Z",
+            "localAmount": {
+                "amount": -35390,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "f8a44bf9-54b9-462c-b8c5-d95c3c74f2a4",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-02-03T02:36:59Z",
+            "localAmount": {
+                "amount": 2871178,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "83a1df7b-cbc3-47fa-b8b5-73e52ef1dbac",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-09-24T08:30:29Z",
+            "localAmount": {
+                "amount": 1603832,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "db3cff24-2a0a-45c7-a7f9-0f77c4d5befc",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-01-11T10:37:45Z",
+            "localAmount": {
+                "amount": 46916,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "d48486b3-7c52-4a16-a497-673e75ab9713",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-12-25T06:52:56Z",
+            "localAmount": {
+                "amount": 637396,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "6ed0fc87-e8f9-49a3-a0bf-34a1e0d55942",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-04-22T12:19:29Z",
+            "localAmount": {
+                "amount": 1589740,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "8783b95d-eb00-48cd-810f-2ed5ca247604",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-04-02T15:18:13Z",
+            "localAmount": {
+                "amount": 2479641,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "0855c843-e71e-45cf-ab94-0954832f16cd",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-01-03T04:24:01Z",
+            "localAmount": {
+                "amount": 1052985,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "0a7e6251-bcc1-415b-971f-bc867dfc136f",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-04-13T18:30:03Z",
+            "localAmount": {
+                "amount": 1287306,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "8752da12-2dbd-43a3-a370-528d794668ff",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-08-09T01:35:36Z",
+            "localAmount": {
+                "amount": 1850400,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "5e449ff0-1092-4521-9292-e04544bab949",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-07-06T10:20:56Z",
+            "localAmount": {
+                "amount": 921429,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "22d0c0ed-f6b4-44e2-9a0a-8c5775cbad87",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-12-09T01:21:35Z",
+            "localAmount": {
+                "amount": 358247,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "d9ac1ba8-5e77-4a38-a556-bc5a340e2d1c",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-08-26T13:24:24Z",
+            "localAmount": {
+                "amount": 2519605,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "080d6aee-b401-4cec-9392-f6cd1d22a6ad",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-01-28T23:55:19Z",
+            "localAmount": {
+                "amount": 274799,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "be183c1a-18fe-424e-b7b1-4c1dbd0b29c9",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-07-31T06:47:29Z",
+            "localAmount": {
+                "amount": 1080228,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "9b69bf26-bc72-4858-bb12-5535c034c537",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-07-16T13:24:46Z",
+            "localAmount": {
+                "amount": 1683711,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "d4862159-7ec5-4dde-8016-fb304f7f2537",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-05-25T09:13:44Z",
+            "localAmount": {
+                "amount": 1274635,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "2249c2c3-f165-4d02-8c95-8194c75593db",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-08-18T10:55:48Z",
+            "localAmount": {
+                "amount": 1430908,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "c39d27d5-d841-4354-b156-7f75da3b473e",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-07-14T23:59:31Z",
+            "localAmount": {
+                "amount": 2366794,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "b1a67a78-49db-44b7-b97f-4dc69df1cfdc",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-10-23T14:12:49Z",
+            "localAmount": {
+                "amount": 1473275,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "8a64b09d-a134-4bb3-8e9c-7431b6d85390",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-07-13T20:35:23Z",
+            "localAmount": {
+                "amount": 2567686,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "eb93748f-428e-409f-9398-88911dfb5ea6",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-03-26T16:30:05Z",
+            "localAmount": {
+                "amount": 2424825,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "bf5d0320-d066-4da5-aa1b-a43cabe63996",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-02-04T23:16:14Z",
+            "localAmount": {
+                "amount": 1151806,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "cad3bc73-5302-4d10-9f68-8a7c778b3f3f",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-09-24T11:37:43Z",
+            "localAmount": {
+                "amount": 2219804,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "58bf635e-18c7-4bad-982e-5260d518b45a",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-04-15T20:24:42Z",
+            "localAmount": {
+                "amount": 1464846,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "c94badb7-5b29-4357-ac9b-7853bb901462",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-05-26T12:11:50Z",
+            "localAmount": {
+                "amount": 2099161,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "a9019897-06a0-466c-8700-5993fb47c4af",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-07-18T00:17:19Z",
+            "localAmount": {
+                "amount": 1587819,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "db71563f-a8d0-4491-afe7-dd70eac04292",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-05-07T14:15:53Z",
+            "localAmount": {
+                "amount": 2103401,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "e9fec167-642e-4223-b59d-1338a62583f9",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-10-05T05:51:06Z",
+            "localAmount": {
+                "amount": 1670282,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "0b833a8b-da84-4bdd-b02a-897ed74bde58",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-05-19T03:07:52Z",
+            "localAmount": {
+                "amount": 1618914,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "7ef0ba8a-bdb4-4dde-acf1-8e27f62b290b",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-05-20T18:27:22Z",
+            "localAmount": {
+                "amount": 1454152,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "083bd3be-417d-49c9-adaf-795cdd9b67db",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-01-07T13:20:21Z",
+            "localAmount": {
+                "amount": 1588242,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "64e18668-90ee-4071-a699-eddfbc756826",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-07-02T21:29:30Z",
+            "localAmount": {
+                "amount": 2429467,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "d8b08359-4068-4d3e-98b3-6656088a2041",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-10-28T13:14:00Z",
+            "localAmount": {
+                "amount": -22140,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "28bf7a22-48f0-469e-be62-b09c591be368",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-01-07T01:24:57Z",
+            "localAmount": {
+                "amount": 2908120,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "a4158caf-67ec-44e3-a50d-20a48870395e",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-01-26T22:02:51Z",
+            "localAmount": {
+                "amount": 416912,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "b992924e-8010-4aeb-8f25-ded1477370da",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-12-13T20:58:19Z",
+            "localAmount": {
+                "amount": 2138356,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "b48df4e7-86d6-4aa5-bb21-79c154cc763a",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-09-03T01:49:57Z",
+            "localAmount": {
+                "amount": 1400448,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "30d7c7ee-99cd-4104-b93b-f12a058229a0",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-02-12T23:22:02Z",
+            "localAmount": {
+                "amount": 2318870,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "389e39bf-a32b-45a2-8553-bce33cf419c1",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-06-09T08:04:27Z",
+            "localAmount": {
+                "amount": 10734,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "c1418467-f0b7-4fb0-a1ee-da363939d64b",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-02-06T20:30:16Z",
+            "localAmount": {
+                "amount": 424034,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "977b27a8-64b5-405c-9897-9f6a6e40d36b",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-09-02T20:34:24Z",
+            "localAmount": {
+                "amount": 560776,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "0dc105eb-1042-4c3f-bc86-1493d0e9ee63",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-03-03T10:21:05Z",
+            "localAmount": {
+                "amount": 2795325,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "27ae441f-83ac-4793-8219-3d3daafad77f",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-07-25T15:29:57Z",
+            "localAmount": {
+                "amount": 1553829,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "4173f79d-348e-452c-a73b-6a6a925757d0",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-12-01T11:09:19Z",
+            "localAmount": {
+                "amount": 360474,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "69a2e998-5f51-4537-bfac-66b8afcb028f",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-10-08T08:43:20Z",
+            "localAmount": {
+                "amount": 2213295,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "d39e63fb-692b-4b5e-8221-90b2f5719ed8",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-28T10:13:42Z",
+            "localAmount": {
+                "amount": 269399,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "1fe9d13c-d03d-4a4a-bdc8-09cd7c02e72a",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-06-11T07:19:45Z",
+            "localAmount": {
+                "amount": 945211,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "98168032-5ab2-4620-b170-c32fe28eeaf1",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-22T18:59:39Z",
+            "localAmount": {
+                "amount": 610745,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "0a836631-d52b-48a2-ae01-dda2eefd96de",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-07-21T04:52:02Z",
+            "localAmount": {
+                "amount": 2929713,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "786f253c-e4b2-4aeb-b6d0-a22d5c1c20cc",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-07-09T18:40:13Z",
+            "localAmount": {
+                "amount": 471361,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "2baf4f87-bd8b-4b3e-a5f6-dac44926789d",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-12-26T14:23:56Z",
+            "localAmount": {
+                "amount": 541202,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "287851b5-0c05-4e92-8c3e-6d04c8df1676",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-06-07T10:59:30Z",
+            "localAmount": {
+                "amount": 2795188,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "9bc77720-2ba3-4cfd-a78e-e1699098b7e8",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-04-05T00:09:54Z",
+            "localAmount": {
+                "amount": 1234374,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "8e5393d4-82cc-44a0-b1ce-a4f0b572e46f",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-04-03T13:18:49Z",
+            "localAmount": {
+                "amount": 2646815,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "c6ab1924-6e96-4277-a3cf-6bb3b0c8e566",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-03-23T08:03:25Z",
+            "localAmount": {
+                "amount": 2934208,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "6afc3f01-37f1-49f7-b867-e8d508108c14",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-08-08T02:44:35Z",
+            "localAmount": {
+                "amount": 157401,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "012591cf-74bb-489b-97d1-b2ac823d360c",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-06-30T04:37:23Z",
+            "localAmount": {
+                "amount": 2996616,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "d42ab6f6-59f5-4f91-8878-96b9a649dc6e",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-03-30T14:43:00Z",
+            "localAmount": {
+                "amount": 311760,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "ff30daaf-3470-4079-be9b-8be68791c875",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-04T13:51:41Z",
+            "localAmount": {
+                "amount": 1362527,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "40c39975-da9f-4b1d-9771-7c4441be30f3",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-09-01T09:13:02Z",
+            "localAmount": {
+                "amount": 315253,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "35adf02e-9848-4da3-a4bd-472da390b95b",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-11-02T04:15:06Z",
+            "localAmount": {
+                "amount": 444204,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "ccfb3ebb-9001-4239-a340-f3fab90de9ef",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-04-20T22:43:58Z",
+            "localAmount": {
+                "amount": 168596,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "dd92fa27-f69d-45a2-ada7-438861ec6d47",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-08-10T22:16:15Z",
+            "localAmount": {
+                "amount": 193077,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "151eab50-4aba-48fd-b94b-7be8273e45bf",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-10-12T17:58:19Z",
+            "localAmount": {
+                "amount": 1815229,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "190a4ae8-196b-401e-947a-29fc63e1b42b",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-07-28T02:43:52Z",
+            "localAmount": {
+                "amount": 2178324,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "b3476265-25c7-4b14-9bf9-40e9425b4d08",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-04-10T16:07:52Z",
+            "localAmount": {
+                "amount": 1656814,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "00a37b1f-022b-4d3b-8eae-fb91e7a036cc",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-10-26T08:51:03Z",
+            "localAmount": {
+                "amount": 233004,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "e9dfcba9-4fcf-4e85-926b-9768e7e3f6d9",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-05-02T06:45:18Z",
+            "localAmount": {
+                "amount": 2202096,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "5ceca2ab-6e7e-4905-bee7-7eaab00e294f",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-06-27T13:24:22Z",
+            "localAmount": {
+                "amount": 423776,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "fe53b454-c94b-4b82-a212-a064f1ce4bae",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-10-20T22:53:46Z",
+            "localAmount": {
+                "amount": 469502,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "602fb71e-f4c6-4aee-bb18-0fb38c7f8893",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-04-01T23:59:46Z",
+            "localAmount": {
+                "amount": 2163539,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "511365b1-08a2-43c4-8e99-28e6ff1e2666",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-03-05T05:47:57Z",
+            "localAmount": {
+                "amount": 908862,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "54777135-abab-4524-9111-5a52836b4858",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-09-03T15:00:46Z",
+            "localAmount": {
+                "amount": 77500,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "5e3f47bd-db59-4746-8c2a-53278066366b",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-10-09T17:31:06Z",
+            "localAmount": {
+                "amount": 929519,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "465895c6-d7c1-4b97-9b13-5f862ec89b1a",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-03-30T00:07:19Z",
+            "localAmount": {
+                "amount": 189927,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "2ae37723-a8c8-4607-93cd-e070903580cf",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-07-06T22:30:18Z",
+            "localAmount": {
+                "amount": -3003,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "f8161bbf-c96d-4af7-8fe0-221e6e9fd45d",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-07-01T09:48:42Z",
+            "localAmount": {
+                "amount": 2646131,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "fb4f31a4-4086-4698-9f81-f1233e076828",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-11-14T20:09:56Z",
+            "localAmount": {
+                "amount": 2867742,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "d8d5084f-aa0f-43dc-9d3c-e38e2655f0f6",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-12-30T08:17:39Z",
+            "localAmount": {
+                "amount": 1354757,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "95eaf780-a1c5-4dbf-a057-e681b23448b8",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-05-30T02:40:47Z",
+            "localAmount": {
+                "amount": 1168858,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "956aec98-37f7-43f5-9b93-d202fd7cf4ae",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-02-14T07:01:57Z",
+            "localAmount": {
+                "amount": 2487783,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "6e97b781-404c-461d-b096-33bb1067a11e",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-07-20T10:14:43Z",
+            "localAmount": {
+                "amount": 923895,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "f82b041a-8770-4424-8def-4636cc43ad45",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-12-28T14:35:35Z",
+            "localAmount": {
+                "amount": 1373706,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "48673cee-f42e-46d3-96a5-419688e2c96b",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-08-27T20:18:27Z",
+            "localAmount": {
+                "amount": 2719559,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "926bfa31-51c9-424f-b8dc-3b3be9f42258",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-04-27T07:39:13Z",
+            "localAmount": {
+                "amount": 1768218,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "c4d328af-681e-441c-9469-d0046ad17367",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-06-19T06:32:01Z",
+            "localAmount": {
+                "amount": 2237967,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "87f42368-2146-43c4-93c3-bb507989540d",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-06-25T15:30:30Z",
+            "localAmount": {
+                "amount": 2990940,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "32ae0ca6-6a11-4c43-89c3-d6a5abd8bc08",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-03-31T17:38:28Z",
+            "localAmount": {
+                "amount": 1056656,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "4a571e3e-ad65-4075-9e8d-0bb5d8b79476",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-06-16T03:04:34Z",
+            "localAmount": {
+                "amount": 268317,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "c117089e-41ea-43c0-aa23-29b2b4913b8a",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-01-09T19:11:04Z",
+            "localAmount": {
+                "amount": 566304,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "30ce9a7a-3f35-4c9b-ba9f-a57ed856278e",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-03-03T08:04:08Z",
+            "localAmount": {
+                "amount": 436443,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "50c3d930-9555-4f5c-8ab7-dcef7a7f230f",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-08-25T17:31:29Z",
+            "localAmount": {
+                "amount": 1502630,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "9c9149bb-f14e-4494-849a-77d4a219b553",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-08-30T05:30:32Z",
+            "localAmount": {
+                "amount": 2509026,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "3aa54e38-50eb-4987-b962-b4a68e9e2672",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-06-24T11:37:38Z",
+            "localAmount": {
+                "amount": 1622696,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "e57d914b-949b-4369-b99b-3f94c472763c",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-08-23T10:14:37Z",
+            "localAmount": {
+                "amount": 290833,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "9a3dc64d-6a66-4b0d-8240-a3f4bee49f04",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-11-05T00:44:30Z",
+            "localAmount": {
+                "amount": 2745890,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "e5fe5d17-0774-4dd8-bf33-e4c3e02a0ade",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-08-04T08:18:40Z",
+            "localAmount": {
+                "amount": 2168343,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "b2d56eb7-03aa-414c-8919-1ccfb1fc6abb",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-04-23T07:31:29Z",
+            "localAmount": {
+                "amount": 1618028,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "4fa3d629-5091-4a30-93f3-5424b3b41b96",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-04-04T23:08:19Z",
+            "localAmount": {
+                "amount": 1627638,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "aac14379-111e-4376-9567-c6ffa68535af",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-29T16:57:22Z",
+            "localAmount": {
+                "amount": 2751097,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "b249a284-c20d-4832-bfce-cc4b584411d8",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-06-23T03:21:33Z",
+            "localAmount": {
+                "amount": 1808853,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "2ab56ec3-09cd-4b8d-b581-c7a3688fd258",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-05-26T23:22:00Z",
+            "localAmount": {
+                "amount": 195502,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "a1ed3570-1815-49b8-b5d7-8d70bde8c09e",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-05-15T22:06:42Z",
+            "localAmount": {
+                "amount": 2387376,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "7f120278-cf12-490c-b650-3e0fa77e236f",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-06-12T05:16:06Z",
+            "localAmount": {
+                "amount": 2422007,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "6ca9a778-ed68-418f-8df1-e0cbcdc2a85a",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-09-28T01:24:02Z",
+            "localAmount": {
+                "amount": 1115249,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "3df68db3-c1c8-48c2-b988-a1af83d2c649",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-05-30T16:39:18Z",
+            "localAmount": {
+                "amount": 1400482,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "c70e3812-b5cf-41f2-b0ef-b97d27586deb",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-01-07T00:29:49Z",
+            "localAmount": {
+                "amount": 1947179,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "eee9bd3d-b770-4772-a357-06bff166a94b",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-08-03T20:40:23Z",
+            "localAmount": {
+                "amount": 1565770,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "6406cc00-f07e-4bdf-a3eb-8aa5c224e578",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-03-25T18:19:21Z",
+            "localAmount": {
+                "amount": 597663,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "3695ec54-5a00-4ca0-864b-2deffa2397f2",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-05-31T05:12:22Z",
+            "localAmount": {
+                "amount": 812266,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "4d0a7990-89e1-4772-a7db-9b45470365f5",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-08-03T02:22:59Z",
+            "localAmount": {
+                "amount": 1245884,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "5741b247-aa11-4d83-bd82-cfcf779e6d63",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-01-02T13:39:39Z",
+            "localAmount": {
+                "amount": 1431748,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "a8f59424-8888-48a6-9d6e-00489f1dc9d3",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-02-03T08:56:21Z",
+            "localAmount": {
+                "amount": 800637,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "558f9386-7964-4ddd-ac5b-a29c4ae54a1f",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-07-04T06:47:56Z",
+            "localAmount": {
+                "amount": 124739,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "d6bbdd13-4d49-4b19-811b-e08f3a0492dc",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-21T11:50:27Z",
+            "localAmount": {
+                "amount": 1268173,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "40de6b5e-76fa-43c4-8e55-b9abaa20cd0d",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-02-20T07:59:52Z",
+            "localAmount": {
+                "amount": 2481699,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "1321afcf-17ef-4ebf-ac5b-9c7a5d974521",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-12-04T13:24:24Z",
+            "localAmount": {
+                "amount": 115306,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "c75ddf62-8992-437c-a0e3-c0a8957f5a0f",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-07-26T14:03:46Z",
+            "localAmount": {
+                "amount": 91261,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "78339ce8-62aa-428a-800f-9118d62dc912",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-07-09T16:58:47Z",
+            "localAmount": {
+                "amount": 326757,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "c82addca-545b-4fdc-9bb3-b5c7ccdd13fa",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-11-29T17:47:00Z",
+            "localAmount": {
+                "amount": 2957611,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "1e8ee8df-500c-4eea-b5d5-d24610e11af2",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-03-23T19:42:24Z",
+            "localAmount": {
+                "amount": 3777,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "210c5d90-14f1-46d1-8ed8-c1cfad73bd77",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-05-06T09:13:17Z",
+            "localAmount": {
+                "amount": 2033569,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "c144278f-fef3-4aa3-910b-65f59ba84fe7",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-07-04T04:57:06Z",
+            "localAmount": {
+                "amount": 2727072,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "cc8e897f-8924-4f37-b656-6ff8dce72740",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-09-06T02:46:21Z",
+            "localAmount": {
+                "amount": 2297547,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "bb4c2208-ad03-4ef6-b05f-c07c8748b3b2",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-02-27T18:05:44Z",
+            "localAmount": {
+                "amount": 1265641,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "7641f03c-83c9-4624-b111-9074735411b9",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-11-07T18:22:55Z",
+            "localAmount": {
+                "amount": 2992760,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "3af70235-b699-498c-bc95-f10aaac9cf79",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-07-02T02:38:27Z",
+            "localAmount": {
+                "amount": 442922,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "978dc6e6-1267-4257-b0af-40525aad5126",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-10-30T23:49:35Z",
+            "localAmount": {
+                "amount": 500916,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "653a0a67-503c-40ce-8263-62f92eda4c0b",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2017-09-05T16:48:36Z",
+            "localAmount": {
+                "amount": 1449385,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "41950045-c9f6-441a-88c3-0ec041d2f5b7",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-11-18T10:35:26Z",
+            "localAmount": {
+                "amount": 1935503,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "b6e01294-97d5-4fe6-9961-eacd3cb17e9f",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-07-04T11:01:49Z",
+            "localAmount": {
+                "amount": 150709,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "4e7057c2-9c49-4c81-b0f2-fd977e4a8130",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-08-18T10:20:26Z",
+            "localAmount": {
+                "amount": 2012859,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "346563b7-5090-4e62-922c-fa6f7818fb8c",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-06-19T23:05:50Z",
+            "localAmount": {
+                "amount": 602611,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "5667091e-78bf-4783-ab0a-393985207b35",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-07-14T23:29:19Z",
+            "localAmount": {
+                "amount": 2226073,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "f5e6d3df-c413-4a47-87e0-7c177dd7910c",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-12-05T08:41:06Z",
+            "localAmount": {
+                "amount": 1991768,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "7dc4e29f-28a0-4dbd-a243-406d76977b4f",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-25T04:03:31Z",
+            "localAmount": {
+                "amount": 828039,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "8cb68efc-f11c-4f74-a860-8176b7fb68c6",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-06-01T08:44:27Z",
+            "localAmount": {
+                "amount": 1162125,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "6b1b7787-5d49-44c0-91d7-e70b1083dab6",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-03-13T00:20:14Z",
+            "localAmount": {
+                "amount": 2568753,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "34ff24f1-a1bc-4381-b495-36ccaa1fdc8f",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-08-05T00:57:51Z",
+            "localAmount": {
+                "amount": 1354327,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "3c38dd74-7dec-4f73-9130-7a64234e6890",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-09-22T19:34:19Z",
+            "localAmount": {
+                "amount": 1660865,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "91f4201e-5dbc-4876-9a48-11b4e76e7aa0",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-08-31T18:59:42Z",
+            "localAmount": {
+                "amount": 914893,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "c4749948-5ec1-404a-ad5f-5ec0bae54ede",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-07-05T12:20:43Z",
+            "localAmount": {
+                "amount": 152240,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "c98876f8-4dd7-4a0b-9b21-5c9cf4ae960d",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-04-09T00:00:47Z",
+            "localAmount": {
+                "amount": 2724239,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "c915a1b2-8961-4aaf-b337-fa9c465cd97c",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-11-23T20:19:23Z",
+            "localAmount": {
+                "amount": 6408,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "8560f24f-2126-4535-8838-36b19c439923",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-02-03T13:46:42Z",
+            "localAmount": {
+                "amount": 600302,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "000f80e5-e3f0-45fa-9a14-8821a5f853d6",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-03-15T18:37:12Z",
+            "localAmount": {
+                "amount": 803630,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "1cf39f24-a201-4cf5-846d-50e56dd7fe87",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-10-01T17:55:24Z",
+            "localAmount": {
+                "amount": 362058,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "db9b156f-1682-41c8-b71a-4c8d5aeefd2a",
+            "category": {
+                "id": 103,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-11-12T03:45:44Z",
+            "localAmount": {
+                "amount": 1867272,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "31380bf3-8144-42fb-a2df-271a3566730a",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-12-16T20:44:52Z",
+            "localAmount": {
+                "amount": 1480149,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "57b91447-b844-4401-9a22-ebdcd4adcc85",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-04-25T00:34:44Z",
+            "localAmount": {
+                "amount": 1656408,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "eb6db41e-eabb-4a81-8ebb-abbfa96f2949",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-12-10T09:03:50Z",
+            "localAmount": {
+                "amount": 1747477,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "0b37e027-9d01-4a00-b2e5-f0d3f059c402",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-01-03T16:50:37Z",
+            "localAmount": {
+                "amount": 501521,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "150c56a9-4574-43b0-82aa-36118c74ca90",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2018-02-09T01:44:33Z",
+            "localAmount": {
+                "amount": 2958587,
+                "currency": "COP"
+            },
+            "concept": "350",
+            "id": "ca3a547d-2165-4208-8a15-caeca6a65786",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2018-04-22T09:18:52Z",
+            "localAmount": {
+                "amount": 2910654,
+                "currency": "COP"
+            },
+            "concept": "344",
+            "id": "b16a0c34-0059-497f-bb67-124d23c0ca84",
+            "category": {
+                "id": 104,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2018-06-20T06:44:54Z",
+            "localAmount": {
+                "amount": 2254537,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "c2c58633-b758-4f5a-aecd-597a5f39a939",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-10-01T07:39:33Z",
+            "localAmount": {
+                "amount": 2685081,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "a103ec8f-b5af-41a9-bb10-ae6d56838da9",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2018-03-29T04:29:14Z",
+            "localAmount": {
+                "amount": 996266,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "750ff627-6281-40c7-a71c-7fef4fe3062d",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-10-12T09:06:48Z",
+            "localAmount": {
+                "amount": 1345636,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "85da9a34-13f6-4316-a854-c0409a948124",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-05-24T14:42:05Z",
+            "localAmount": {
+                "amount": 2041070,
+                "currency": "COP"
+            },
+            "concept": "056",
+            "id": "a5b35c8f-499d-455c-8941-4cec8f76d1f3",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY3"
+            }
+        },
+        {
+            "operationDate": "2017-07-09T06:37:48Z",
+            "localAmount": {
+                "amount": 170698,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "e70742d0-4a03-44d0-beb7-8024635e454f",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY5"
+            }
+        },
+        {
+            "operationDate": "2017-09-05T15:16:19Z",
+            "localAmount": {
+                "amount": 281475,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "95ef552b-cb9b-479e-b63b-0f5a1d3ec55f",
+            "category": {
+                "id": 100,
+                "name": "CATEGORY4"
+            }
+        },
+        {
+            "operationDate": "2017-07-15T00:56:45Z",
+            "localAmount": {
+                "amount": 806615,
+                "currency": "COP"
+            },
+            "concept": "109",
+            "id": "1ab46573-1dad-4c06-bc99-3d8fc96bdc85",
+            "category": {
+                "id": 101,
+                "name": "CATEGORY2"
+            }
+        },
+        {
+            "operationDate": "2018-03-14T08:06:19Z",
+            "localAmount": {
+                "amount": 1695943,
+                "currency": "COP"
+            },
+            "concept": "998",
+            "id": "0f6fed4b-a39c-473d-a3dd-e39bdabcdc8e",
+            "category": {
+                "id": 105,
+                "name": "CATEGORY1"
+            }
+        },
+        {
+            "operationDate": "2017-08-28T15:03:28Z",
+            "localAmount": {
+                "amount": 515120,
+                "currency": "COP"
+            },
+            "concept": "057",
+            "id": "eeab8adc-d080-4557-9028-73f3a2355f2f",
+            "category": {
+                "id": 102,
+                "name": "CATEGORY4"
+            }
+        }
+    ]
+}

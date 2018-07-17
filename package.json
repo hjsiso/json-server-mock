@@ -1,0 +1,24 @@
+{
+  "name": "datamock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server data.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.14.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjsiso/json-server-mock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hjsiso/json-server-mock/issues"
+  },
+  "homepage": "https://github.com/hjsiso/json-server-mock#readme",
+  "description": ""
+}
