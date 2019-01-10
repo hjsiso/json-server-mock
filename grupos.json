@@ -1,0 +1,445 @@
+{
+  "data": [
+     { 
+      "id": "001",
+      "details" : {"name": "Basico", "ammount": "0"},
+      "services": [
+        {
+          "id": "CONSULTAS",
+          "name": "CONSULTAS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "CONSULTA SALDOS Y MOV ON-LINE"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "INFORMACION ONLINE DE ORDENES"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTA CERTIFICADOS"
+            }
+          ]
+        },
+        {
+          "id": "PAGOS",
+          "name": "PAGOS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "PAGO DE FACTURAS"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS Y TRASPASOS"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS ON LINE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id":"002",
+      "details" : {"name": "Intermedio", "ammount": "10000"},
+      "services": [
+        {
+          "id": "CONSULTAS",
+          "name": "CONSULTAS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "CONSULTA SALDOS Y MOV ON-LINE"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "INFORMACION ONLINE DE ORDENES"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTA CERTIFICADOS"
+            },
+            {
+              "id": "3304",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTAS LEASING"
+            },
+            {
+              "id": "3305",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTA CHEQUERAS"
+            },
+            {
+              "id": "3306",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CHEQUERAS - SOLICITUD Y BLOQU"
+            }
+          ]
+        },
+        {
+          "id": "PAGOS",
+          "name": "PAGOS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "PAGO DE FACTURAS"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS Y TRASPASOS"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS ON LINE"
+            },
+            {
+              "id": "3304",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "PAGATIEMPO EN NETCASH"
+            },
+            {
+              "id": "3305",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "DIAN-SOI"
+            }
+          ]
+        },
+        {
+          "id": "TARJETAS DE CREDITO",
+          "name": "TARJETAS DE CREDITO",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "PAGO DE TARJETA CREDITO PROPIA"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "AVANCE TARJETA DE CREDITO"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "PROGRAMA CLIENTE FIEL"
+            }
+          ]
+        }
+      ]
+    },
+    { 
+      "id":"003",
+      "details" : {"name": "Avanzado", "ammount": "30000"},
+      "services": [
+        {
+          "id": "CONSULTAS",
+          "name": "CONSULTAS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "CONSULTA SALDOS Y MOV ON-LINE"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "INFORMACION ONLINE DE ORDENES"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTA CERTIFICADOS"
+            },
+            {
+              "id": "3304",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTAS LEASING"
+            },
+            {
+              "id": "3305",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTA CHEQUERAS"
+            },
+            {
+              "id": "3306",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CHEQUERAS - SOLICITUD Y BLOQU"
+            }
+          ]
+        },
+        {
+          "id": "PAGOS",
+          "name": "PAGOS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "PAGO DE FACTURAS"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS Y TRASPASOS"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS ON LINE"
+            },
+            {
+              "id": "3304",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "PAGATIEMPO EN NETCASH"
+            },
+            {
+              "id": "3305",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "DIAN-SOI"
+            }
+          ]
+        },
+        {
+          "id": "TARJETAS DE CREDITO",
+          "name": "TARJETAS DE CREDITO",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "PAGO DE TARJETA CREDITO PROPIA"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "AVANCE TARJETA DE CREDITO"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "PROGRAMA CLIENTE FIEL"
+            }
+          ]
+        },
+        {
+          "id": "RECAUDOS",
+          "name": "RECAUDOS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "RECAUDAC.FORMATO DOS"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "RECAUDACIONES ASO 98"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "id":"004",
+      "details" : {"name": "Full", "ammount": "50000"},
+      "services": [
+        {
+          "id": "CONSULTAS",
+          "name": "CONSULTAS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "CONSULTA SALDOS Y MOV ON-LINE"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "INFORMACION ONLINE DE ORDENES"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTA CERTIFICADOS"
+            },
+            {
+              "id": "3304",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTAS LEASING"
+            },
+            {
+              "id": "3305",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CONSULTA CHEQUERAS"
+            },
+            {
+              "id": "3306",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "CHEQUERAS - SOLICITUD Y BLOQU"
+            },
+            {
+              "id":"3307",
+              "url":"cells/mobile_apps/cells-native/labs/",
+              "name":"CONSULTA REMESAS ON LINE"
+            },
+            {
+              "id":"3308",
+              "url":"cells/mobile_apps/cells-native/labs/",
+              "name":"DESCARGA DE ARCHIVOS"
+            },   
+            {
+              "id":"3308",
+              "url":"cells/mobile_apps/cells-native/labs/",
+              "name":"DESCARGA DE ARCHIVOS"
+            }           
+          ]
+        },
+        {
+          "id": "PAGOS",
+          "name": "PAGOS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "PAGO DE FACTURAS"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS Y TRASPASOS"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "TRANSFERENCIAS ON LINE"
+            },
+            {
+              "id": "3304",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "PAGATIEMPO EN NETCASH"
+            },
+            {
+              "id": "3305",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "DIAN-SOI"
+            },
+            {
+              "id":"3306",
+              "url":"cells/mobile_apps/cells-native/labs/",
+              "name":"NOMINAS"
+            },
+            {
+              "id":"3307",
+              "url":"cells/mobile_apps/cells-native/labs/",
+              "name":"MULTITRASFERENCIAS ON LINE"
+            }
+          ]
+        },
+        {
+          "id": "TARJETAS DE CREDITO",
+          "name": "TARJETAS DE CREDITO",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "PAGO DE TARJETA CREDITO PROPIA"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "AVANCE TARJETA DE CREDITO"
+            },
+            {
+              "id": "3303",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "PROGRAMA CLIENTE FIEL"
+            }
+          ]
+        },
+        {
+          "id": "RECAUDOS",
+          "name": "RECAUDOS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "RECAUDAC.FORMATO DOS"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/poc/",
+              "name": "RECAUDACIONES ASO 98"
+            },
+            {
+              "id":"3303",
+              "url":"cells/mobile_apps/cells-native/labs/",
+              "name":"RECAUDACIONES COBIS"
+            },
+            {
+              "id":"3304",
+              "url":"cells/mobile_apps/cells-native/labs/",
+              "name":"RECAUDAC.ASO 2000"
+            }
+          ]
+        },
+        {
+          "id": "NEGOCIACIÓN DE DIVISAS",
+          "name": "NEGOCIACIÓN DE DIVISAS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "NEGOCIACIÓN DE DIVISAS"
+            }
+          ]
+        },
+        {
+          "id": "ADQUIRENCIAS",
+          "name": "ADQUIRENCIAS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "ADQUIRENCIAS"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "ADQUIRENCIA - BATCH"
+            }
+          ]
+        },
+        {
+          "id": "FONDOS",
+          "name": "FONDOS",
+          "items": [
+            {
+              "id": "3301",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "FONDOS DE INVERSION"
+            },
+            {
+              "id": "3302",
+              "url": "cells/mobile_apps/cells-native/labs/",
+              "name": "ADQUIRENCIA - BATCH"
+            }
+          ]
+        }
+      ]
+    }
+]
+}
